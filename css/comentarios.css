@@ -1,0 +1,11 @@
+.comentario{
+    background: #EAEDED;
+    border-radius: 0.5em;
+    -webkit-box-shadow: -47px -44px 66px -39px rgba(0,0,0,0.38);
+-moz-box-shadow: -47px -44px 66px -39px rgba(0,0,0,0.38);
+box-shadow: -47px -44px 66px -39px rgba(0,0,0,0.38);
+}
+.cara-usuario{
+    background: #ddd;
+    border: 1px solid blue;
+}
